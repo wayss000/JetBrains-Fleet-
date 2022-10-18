@@ -1,13 +1,13 @@
 ---
 name: Fleet用法咨询
 about: 了解Fleet某个功能应该怎么用
-title: ''
-labels: ''
+title: "[Fleet用法咨询]"
+labels: help wanted
 assignees: ''
 
 ---
 
-Fleet version: build 1.9.231
-OS: Mac OS X (12.0.1, x86_64)
+Fleet version: build a.b.xxx
+OS: XXX
 ---
 这里描述具体的内容。
