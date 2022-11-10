@@ -6,6 +6,6 @@
 
 同时，也建议把遇到的问题，放到Issues，方便后来人。
 
-<div align=center><img width="500" height="500" src="[https://user-images.githubusercontent.com/21314261/196210446-e517f81e-d8a5-49fe-a319-cd6b38b695ae.png](https://user-images.githubusercontent.com/21314261/201146623-dd5eba3f-6fc7-40fa-8025-46dcdd6f8dff.jpeg)"/></div>
+<div align=center><img width="500" height="500" src="[https://user-images.githubusercontent.com/21314261/201146847-403ecb78-1216-4b23-a5e9-d55204b01234.jpeg]"/></div>
 
 ![WechatIMG880](https://user-images.githubusercontent.com/21314261/201146847-403ecb78-1216-4b23-a5e9-d55204b01234.jpeg)
